@@ -70,7 +70,7 @@ You will be to see The webpage like the below image, execute the get method to v
 
 <img width="1506" alt="image" src="https://github.com/RAHULBARIK/rate-limiter/assets/49528465/f83fef8e-d484-445e-a330-9061c974a35d">
 
-And Check the Database Table to check the entry of the function name along with its timeStamp, like something like in the database
+And Check the Database Table to check the entry of the function name along with its timeStamp, looks something like below
 
 <img width="1013" alt="image" src="https://github.com/RAHULBARIK/rate-limiter/assets/49528465/c46b3305-33cb-4ca6-80b5-632a729d2608">
 
