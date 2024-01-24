@@ -72,7 +72,8 @@ You will be to see The webpage like the below image, execute the get method to v
 
 And Check the Database Table to check the entry of the function name along with its timeStamp, looks something like below
 
-<img width="1013" alt="image" src="https://github.com/RAHULBARIK/rate-limiter/assets/49528465/c46b3305-33cb-4ca6-80b5-632a729d2608">
+<img width="1014" alt="image" src="https://github.com/RAHULBARIK/rate-limiter/assets/49528465/c075e61f-1b00-46ce-9e9b-b08e58c8ddcd">
+
 
 
 
