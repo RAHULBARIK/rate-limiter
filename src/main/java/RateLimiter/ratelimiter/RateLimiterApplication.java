@@ -9,8 +9,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @SpringBootApplication
 @EnableAspectJAutoProxy
-@ComponentScan(basePackages = {"RateLimiter.ratelimiter.util","RateLimiter.ratelimiter.controller","RateLimiter.ratelimiter.config"})
-@OpenAPIDefinition
+@ComponentScan(basePackages = {"RateLimiter.ratelimiter.util","RateLimiter.ratelimiter.controller"})
 public class RateLimiterApplication {
 
 	public static void main(String[] args) {

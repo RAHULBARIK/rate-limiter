@@ -10,7 +10,6 @@ public class RateLimiterRestController {
 
     @TrackFunctionCall
     @GetMapping("/hello")
-    @Operation(summary = "Get a greeting", description = "Returns a simple greeting message")
     public String example() {
         // Your method logic here
         return "Example response";
